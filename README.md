@@ -363,8 +363,8 @@ WHERE c.content_id NOT IN (
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/media-streaming-platform-db.git
-cd media-streaming-platform-db
+git clone [https://github.com/LaxmanRoy14/media-platform-db.git](https://github.com/LaxmanRoy14/media-platform-db.git)
+   cd media-platform-db/database
 ```
 
 ---
